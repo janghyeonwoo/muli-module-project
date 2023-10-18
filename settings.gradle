@@ -1,0 +1,5 @@
+rootProject.name = 'muli-module-project'
+include 'server-api'
+include 'domain'
+include 'core'
+
